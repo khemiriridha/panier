@@ -1,0 +1,8 @@
+panier:
+    resource: "@PanierBundle/Controller/"
+    type:     annotation
+
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
